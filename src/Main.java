@@ -108,7 +108,7 @@ public class Main {
                         System.out.println("Sucess NUmber of Deposit :" + numberOfSuccessDeposit);
                         System.out.println("Sucess NUmber of WithDrawal : " + numberOfSuccessWithDrawal);
 
-                        System.out.println(" ");
+                        System.out.println("  ");
                         break;
                     default:
                         System.out.println("invalid Option");
